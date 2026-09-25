@@ -4,7 +4,7 @@
    - Audio: la primera vez va a la red y se guarda completo en segundo plano;
      después se sirve desde caché (incluidas las peticiones Range).
    Al cambiar cualquier archivo del shell, sube la versión de CACHE. */
-const CACHE = 'vinilo-shell-v9';
+const CACHE = 'vinilo-shell-v11';
 const AUDIO = 'vinilo-audio-v1';
 const SHELL = [
   './',
